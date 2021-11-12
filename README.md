@@ -1,0 +1,2 @@
+# openvino_inference_yolo
+该项目是使用openvino对yolov5和yoloX进行部署推理
